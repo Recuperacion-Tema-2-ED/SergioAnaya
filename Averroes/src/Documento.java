@@ -9,3 +9,5 @@ public class Documento {
         return nombreDocumento;
     }
 }
+
+//Autor: Sergio Anaya Marin
