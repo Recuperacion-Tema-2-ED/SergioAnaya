@@ -11,3 +11,5 @@ public class Documento {
 }
 
 //Autor: Sergio Anaya Marin
+
+//Descripción: Descripción de documento.
